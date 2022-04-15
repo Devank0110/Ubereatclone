@@ -207,6 +207,7 @@ a.signin:active{
   left: 0;
   top: 0;
   display: flex;
+  width: 100%;
 
 }
 
@@ -452,6 +453,7 @@ p{
   padding: 72px 0 88px;
   background-color: black;
   color: white;
+  width: 100%;
 }
 
 .footerin{
